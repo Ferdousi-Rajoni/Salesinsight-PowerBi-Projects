@@ -1,2 +1,3 @@
 # Salesinsight-PowerBi-Projects
-This is an Power Bi Sales insight Project 
+This is a Power Bi Sales insight Project 
+Author : Ferdousi Rajoni
